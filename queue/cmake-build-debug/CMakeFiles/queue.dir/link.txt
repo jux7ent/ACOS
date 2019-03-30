@@ -1,0 +1,1 @@
+/usr/bin/clang-6.0 -g   CMakeFiles/queue.dir/main.c.o  -o queue 

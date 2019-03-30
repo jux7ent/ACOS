@@ -1,0 +1,3 @@
+/home/egor/Documents/acos/tail_v2/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/egor/Documents/acos/tail_v2/cmake-build-debug/CMakeFiles/tail_v2.dir
+/home/egor/Documents/acos/tail_v2/cmake-build-debug/CMakeFiles/edit_cache.dir

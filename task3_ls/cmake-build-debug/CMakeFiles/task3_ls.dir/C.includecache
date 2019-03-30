@@ -1,0 +1,32 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/egor/Documents/acos/task3_ls/main.c
+stdio.h
+-
+dirent.h
+-
+errno.h
+-
+unistd.h
+-
+sys/types.h
+-
+sys/stat.h
+-
+ftw.h
+-
+pwd.h
+-
+grp.h
+-
+memory.h
+-
+stdlib.h
+-
+

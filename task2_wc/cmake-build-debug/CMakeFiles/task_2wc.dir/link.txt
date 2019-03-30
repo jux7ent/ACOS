@@ -1,0 +1,1 @@
+/usr/bin/clang-6.0 -g   CMakeFiles/task_2wc.dir/main.c.o  -o task_2wc 

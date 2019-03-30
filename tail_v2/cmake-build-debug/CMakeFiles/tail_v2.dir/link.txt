@@ -1,0 +1,1 @@
+/usr/bin/clang-6.0 -g   CMakeFiles/tail_v2.dir/main.c.o  -o tail_v2 

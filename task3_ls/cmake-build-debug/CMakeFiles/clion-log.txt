@@ -1,0 +1,4 @@
+/home/egor/Documents/clion-2018.3.4/bin/cmake/linux/bin/cmake -DCMAKE_BUILD_TYPE=Debug -DCMAKE_C_COMPILER=/usr/bin/clang-6.0 -DCMAKE_CXX_COMPILER=/usr/bin/clang++-6.0 -G "CodeBlocks - Unix Makefiles" /home/egor/Documents/acos/task3_ls
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /home/egor/Documents/acos/task3_ls/cmake-build-debug

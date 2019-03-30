@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/egor/Documents/acos/pipe/main.c
+errno.h
+-
+stdio.h
+-
+unistd.h
+-
+wait.h
+-
+malloc.h
+-
+stdlib.h
+-
+

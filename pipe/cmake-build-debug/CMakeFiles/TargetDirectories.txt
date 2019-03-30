@@ -1,0 +1,3 @@
+/home/egor/Documents/acos/pipe/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/egor/Documents/acos/pipe/cmake-build-debug/CMakeFiles/pipe.dir
+/home/egor/Documents/acos/pipe/cmake-build-debug/CMakeFiles/edit_cache.dir
