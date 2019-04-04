@@ -1,0 +1,3 @@
+/home/egor/Documents/acos/sieve/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/egor/Documents/acos/sieve/cmake-build-debug/CMakeFiles/sieve.dir
+/home/egor/Documents/acos/sieve/cmake-build-debug/CMakeFiles/edit_cache.dir
