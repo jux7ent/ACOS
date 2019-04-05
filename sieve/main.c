@@ -7,8 +7,13 @@
 typedef unsigned long long ULL;
 
 int main(int argc, char **argv) {
+    if (argc == 1) {
+        perror("promgram arg1 <arg2>");
+        exit(-1);
+    }
+
     ULL search_limit =
-            argc < 2 ? ULLONG_MAX : strtoull(argv[2], NULL, 10);
+            argc < 3 ? ULLONG_MAX : strtoull(argv[2], NULL, 10);
     ULL threads_count = strtoull(argv[1], NULL, 10);
 
     pid_t pid = 0;
